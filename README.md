@@ -6,8 +6,10 @@ This is the official repository for our paper ["CE-FAM: Concept-Based Explanatio
 - Please move `concepts/broden/dlbroden.sh` to the root directory and then run it.
 ### 2. ImageNet-S
 - Please prepare the dataset according to the [official code](https://github.com/LUSSeg/ImageNet-S).
+# 2. Concept Training
+Please refer to `scripts/command_train.sh` for an example command.
 
-# 2. Concept Evaluation
+# 3. Concept Evaluation
 Please refer to `scripts/command_evaluate.sh` for an example command.
 
 # (Optional) Concept Matching in Existing Methods
