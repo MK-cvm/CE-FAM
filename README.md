@@ -10,6 +10,8 @@ This is the official repository for our paper ["CE-FAM: Concept-Based Explanatio
 Please refer to `scripts/command_train.sh` for an example command.
 
 # 3. Concept Evaluation
+Pre-trained weights are available in [Releases](https://github.com/MK-cvm/CE-FAM/releases/tag/v1.0.0).
+
 Please refer to `scripts/command_evaluate.sh` for an example command.
 
 # (Optional) Concept Matching in Existing Methods
